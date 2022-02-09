@@ -1,0 +1,33 @@
+{
+  "queries": [
+    "close box son add bad strong afford down bad middle",
+    "business become for department chap offer business become for chap tell afford aware bad name business become for committee chap normal around egg expect learn prepare balance goodbye lot forget welcome"
+  ],
+  "phrases": [
+    "balance goodbye lot forget",
+    "health contact ever big",
+    "business become for chap",
+    "approach field",
+    "else after blow inform",
+    "around egg expect learn",
+    "add bad",
+    "increase accept",
+    "close box",
+    "afford bad"
+  ],
+  "solution": [
+    [
+      "close box",
+      "add bad",
+      "afford down bad"
+    ],
+    [
+      "business become for department chap",
+      "business become for chap",
+      "afford aware bad",
+      "business become for committee chap",
+      "around egg expect learn",
+      "balance goodbye lot forget"
+    ]
+  ]
+}
